@@ -46,7 +46,6 @@ const Projects = ({ openModal, setOpenModal }) => {
               Aplicativos Web
             </ToggleButton>
           )}
-          <Divider />
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&

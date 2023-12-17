@@ -107,11 +107,7 @@ const ContactButton = styled.input`
   width: 100%;
   text-decoration: none;
   text-align: center;
-  background: #2a628f;
-  background: linear-gradient(225deg, hsla(351, 100%, 50%, 1) 0%,  hsla(14, 100%, 30%, 1) 100%);
-  background: -moz-linear-gradient(225deg, hsla(351, 100%, 50%, 1) 0%, hsla(14, 100%, 30%, 1) 100%);
-  background: -webkit-linear-gradient(225deg, hsla(351, 100%, 50%, 1) 0%,  hsla(14, 100%, 30%, 1) 100%);
-  padding: 13px 16px;
+  background: #2a628f;padding: 13px 16px;
   margin-top: 2px;
   border-radius: 12px;
   border: none;

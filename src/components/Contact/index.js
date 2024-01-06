@@ -145,7 +145,7 @@ const Contact = () => {
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Me envie um email 🚀</ContactTitle>
           <ContactInput placeholder="Seu Email" name="from_email" />
-          <ContactInput placeholder="Seu Name" name="from_name" />
+          <ContactInput placeholder="Seu Nome" name="from_name" />
           <ContactInput placeholder="Assunto" name="subject" />
           <ContactInputMessage placeholder="Mensagem" rows="4" name="message" />
           <ContactButton type="submit" value="Enviar" />

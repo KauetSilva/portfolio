@@ -3,9 +3,9 @@ export const Bio = {
 
   roles: ["Desenvolvedor Full Stack", "Programador"],
   description:
-    "Sou uma pessoa motivada e versátil, sempre ansiosa para enfrentar novos desafios. Com paixão por aprender, dedico-me a entregar resultados de alta qualidade.",
+    "Atualmente desenvolvendo aplicações de ponta, com React Next Node. Sou uma pessoa motivada e versátil, sempre ansiosa para enfrentar novos desafios. Com paixão por aprender, dedico-me a entregar resultados de alta qualidade.",
   github: "https://github.com/KauetSilva",
-  resume: "",
+  resume: "https://drive.google.com/file/d/1iqpda4WQVrP_sasAQVt1qK9YsLhQoVDR/view",
   linkedin: "https://linkedin.com/in/cleciokauetsilvadearaújo/",
 };
 
@@ -109,7 +109,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logos/downloads/Git-Icon-White.png",
       },
       {
         name: "GitHub",
@@ -134,7 +134,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX/bDf/////Xxz/YiP/aC//Ziz/ajT/18z/ZCj/sJr/zsH/mnz/var/p43/YSD/8e3/oIb/cT7/4Nf/9vP/w7P/5t//rJT/tqH/kG3/ybn/lHP/pIj/eUz/dEP/0sb/WAD/gln/imQm2TMxAAACj0lEQVRIia2X15LqMAxA3RI73SneQALs7v//5JWdQoocMztXM7wwOkhWh1BUKtklhdZF0skK1yDId2lWM64iARIpXtZZ+glodMlFTDYSC861CYDmxiKCSMRu5gocmcAwK4KNXrAhyodZUXGDgzmLrzh4LMsxcGTXmJWNuyuY8TBHCM+O4BjgYjHliBd7MA/4qepMP1zolndOYBPgyt5q9U6LNRuQXMczcv4ZfbfvickbHC/zB462loO4PK0BVSygCTgaPybOyMwVFjMzePPW2Qw+QQk+6WtwmuI2gQGDolTfYKLRtKVzA1iTAGq0HxZrbGhoan1txlUz0g68Sr2IJaWykEDT7rla4BZML0D1A/GUX2Du23bH+j1PAcz8oSltZVqO9mqXapEBWHuTz5KVS/ZxiGtKqtLL5QunTX8IIKuI9D2RdQs3VPT461ySzlNu7G45cLYdWjoc46A6kuBZ5OnMmQEScSqRKCEFGlSuZ06OaNOJgmgMZGmauPfdoRGr6Bx3oVGQvwDJgOnhoS3WrAAirkZ9k/yKoacj1FtbYy6Bq1hwIq7KnGY1LKr2icYAgoOnQz110sADK9SeSwdaAMwNJ3pPcHuuACqkjWeOGuGr47LCinzhOu8ysUV+bquFG/wjxbXVsZFnTsYXE8U18mF0TFybXe48fh5WE5fzy4k5D6vteHRLIq0Dk30ej5uBzGC6y0cZ2MzLQH6bZHnR0N+rMbsa3C0dldvx4hsJq7yXzrzm4oeUph2+Qptks+bmHo85L8ur9E2ObhdrcJVvuN0qp7T46Og4Hw9/P1fA5icHUkHP4J9PsvARSDxHIA2cncVO9T8duhbVHDmtx9Bp7eSV1eX7mGcfHvOThP8+/AOQbhyQ4b2OAgAAAABJRU5ErkJggg==",
       },
       {
         name: "Insomnia",
@@ -143,7 +143,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "data:image/png;base64,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",
       },
     ],
   },
@@ -152,7 +152,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQFujf6ikx73bw/company-logo_200_200/0/1630533319619/jmv_technology_logo?e=1707955200&v=beta&t=s8udJQs7yCVYu-DqrNg1rPXsu-pACYIdZoc6iJqMAlo",
+    img: "https://i.postimg.cc/5N2VkgSq/jmv-technology-logo.jpg",
     role: "Desenvolvedor Fullstack",
     company: "JMV Technlogy",
     date: "Junho 2022 - Presente",
@@ -179,15 +179,15 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFnwX_AR9ShdA/company-logo_200_200/0/1631387162865?e=1707955200&v=beta&t=6rlQJhfbqPDZJdEBDeFctQnqyigd1DKV8v4k_54l9hA",
+    img: "https://i.postimg.cc/yNQQxhZB/ifba-logo.jpg",
     school: "Instituto Federal de Educação da Bahia",
     date: "Junho de 2021 - junho de 2022",
-    desc: "Optei por interromper temporariamente meu curso de Bacharelado em Tecnologia da Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia devido à considerável distância de minha residência. ",
+    desc: "Optei por interromper temporariamente meu curso de Bacharelado em Tecnologia da Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia devido à considerável distância da minha residência, localizado em outra cidade. ",
     degree: "Bacharel em Tecnologia - Sistemas de Informação",
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQFhtBTLwrqQTA/company-logo_200_200/0/1630536673822/universidade_salvador_logo?e=1707955200&v=beta&t=SnocM07k_hBextpEQoGDIQk2wPqy8-ZCYPdBgP8TUcA",
+    img: "https://i.postimg.cc/sDXkJX3T/universidade-salvador-logo.jpg",
     school: "Unifacs",
     date: "Fevereiro de 2022 - junho de 2024",
     desc: "Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIFACS. Minha jornada educacional envolve obter insights abrangentes e habilidades práticas no campo da tecnologia da informação. Este programa está alinhado com minha paixão por desenvolver soluções inovadoras e entender as complexidades da análise e desenvolvimento de sistemas.",
@@ -202,7 +202,7 @@ export const projects = [
     date: "Outubro 2023 - Novembro 2023",
     description: "E-commerce desenvolvido diretamente para dispositivos móveis",
     image:
-      "https://private-user-images.githubusercontent.com/89205130/290991764-db973116-7fed-4f60-8cf2-6a6ad28cd7ad.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MjI2OTQsIm5iZiI6MTcwMjgyMjM5NCwicGF0aCI6Ii84OTIwNTEzMC8yOTA5OTE3NjQtZGI5NzMxMTYtN2ZlZC00ZjYwLThjZjItNmE2YWQyOGNkN2FkLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxN1QxNDEzMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTRmNzM2YmRlNTAyYTAxZTgwOWMzYTNiOWJmN2FiYzIzNmEwYjI0ODEzYjRiY2U5MzYzYzg0ZjUzMzYxZWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GigAUb_0fpH8jpRqVB4gpbKFDwRhjlubChicJmrY0oE",
+      "https://i.postimg.cc/d3LKDt1N/fsw-.jpg",
     tags: ["Next Js", "TypeScript", "Tailwind", "Prisma", "Supabase", "Shadcn/ui"],
     category: "web app",
     github: "https://github.com/KauetSilva/fsw-store",
@@ -210,7 +210,7 @@ export const projects = [
     member: [
       {
         name: "Kauet Silva",
-        img: "https://media.licdn.com/dms/image/D4D03AQFBt3jKCZXAyA/profile-displayphoto-shrink_800_800/0/1700536907138?e=1707955200&v=beta&t=LLSC4VBJAV9z9iqtJ9Cd2iNQdhRH1ciEr3x5XxuGk6s",
+        img: "https://i.postimg.cc/dt5qqpVx/Hero-Image.jpg",
         linkedin: "https://www.linkedin.com/in/cleciokauetsilvadearaújo/",
         github: "https://github.com/KauetSilva/",
       },

@@ -102,7 +102,7 @@ function Footer() {
             <LinkedInIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2023 Kauet Silva. Todos os direitos reservados.</Copyright>
+        <Copyright>&copy; 2024 Kauet Silva. Todos os direitos reservados.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

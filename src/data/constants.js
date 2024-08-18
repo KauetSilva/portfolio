@@ -5,7 +5,7 @@ export const Bio = {
   description:
     "Atualmente desenvolvendo aplicações de ponta, com React Next Node. Sou uma pessoa motivada e versátil, sempre ansiosa para enfrentar novos desafios. Com paixão por aprender, dedico-me a entregar resultados de alta qualidade.",
   github: "https://github.com/KauetSilva",
-  resume: "https://drive.google.com/file/d/1iqpda4WQVrP_sasAQVt1qK9YsLhQoVDR/view",
+  resume: "https://drive.google.com/file/d/1Ll7eWH7bbILEMa-IOxE1k1fSyOIS8g9x/view?usp=sharing",
   linkedin: "https://linkedin.com/in/cleciokauetsilvadearaújo/",
 };
 
@@ -156,7 +156,7 @@ export const experiences = [
     role: "Desenvolvedor Fullstack",
     company: "JMV Technlogy",
     date: "Junho 2022 - Presente",
-    desc: "Responsável pela manutenção, aprimoramento e implementação de novas funcionalidades nos sistemas da empresa, assim como na criação de novos sistemas. Contribuí ativamente para otimizar e inovar nas soluções tecnológicas, visando melhorar a eficiência e atender às necessidades em constante evolução da empresa.",
+    desc: "Trabalho em uma plataforma completa para transmitir ao vivo, gravar, hospedar vídeos e videoaulas criptografadas. Responsável por desenvolver o upload mais rápido que o do Youtube. Responsável pelo desenvolvimento e manutenção de aplicações backend em Node.js. Auxílio na automação de processos, gestão do GitLab, monitoramento e CI/CD. Conhecimento em filas Pub/Sub, Redis, Docker, HAProxy, Nginx, FFMpeg, WebSocket, TypeScript, Nest.js, Socket.IO, JavaScript e ShellScript. Experiência no desenvolvimento de interfaces de usuário com React, Angular e Vue.js, criando telas responsivas e interativas com foco em UX/UI.",
     skills: [
       "NodeJs",
       "JavaScript",
@@ -198,6 +198,46 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Curriculum Evaluator",
+    date: "Junho 2024 - Junho 2024",
+    description: "Site desenvolvido para avaliar currículos baseado na IA do google, utilizado o principio mobile-first.",
+    image:
+      "https://i.postimg.cc/LHzNDzq6/curriculum-evaluator-desktop.png",
+    tags: ["Nest Js", "Next Js", "TypeScript", "Tailwind", "framer-motion", "Shadcn/ui"],
+    category: "web app",
+    github: "https://github.com/KauetSilva/curriculum-evaluator",
+    webapp: "https://curriculum-evaluator.vercel.app",
+    member: [
+      {
+        name: "Kauet Silva",
+        img: "https://i.postimg.cc/dt5qqpVx/Hero-Image.jpg",
+        linkedin: "https://www.linkedin.com/in/cleciokauetsilvadearaújo/",
+        github: "https://github.com/KauetSilva/",
+      },
+    ],
+  },
+  {
+    id: 1,
+    title: "Manage Holiday",
+    date: "Outubro 2023 - Novembro 2023",
+    description: "Site desenvolvido para gerenciamento de feriados",
+    image:
+      "https://i.postimg.cc/tRsjsXk6/manage-holiday.png",
+    tags: ["Next Js", "TypeScript", "Tailwind", "Prisma", "Supabase", "Shadcn/ui"],
+    category: "web app",
+    github: "https://github.com/KauetSilva/manage-holiday-plans",
+    webapp: "https://manage-holiday-plans.vercel.app/",
+    member: [
+      {
+        name: "Kauet Silva",
+        img: "https://i.postimg.cc/dt5qqpVx/Hero-Image.jpg",
+        linkedin: "https://www.linkedin.com/in/cleciokauetsilvadearaújo/",
+        github: "https://github.com/KauetSilva/",
+      },
+    ],
+  },
+  {
+    id: 2,
     title: "FSW Store",
     date: "Outubro 2023 - Novembro 2023",
     description: "E-commerce desenvolvido diretamente para dispositivos móveis",
